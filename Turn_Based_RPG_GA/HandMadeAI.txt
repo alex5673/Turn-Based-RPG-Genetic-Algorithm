@@ -1,0 +1,1 @@
+Number of turns it takes for my hand made AI to reduce player's HP to 0 = 8

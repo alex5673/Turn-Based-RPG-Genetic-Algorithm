@@ -1,0 +1,10 @@
+﻿  TurnBasedRPGGA.cpp
+  RandomAI.cpp
+c:\users\alexd\onedrive\documents\artifical intelligence\turn_based_rpg_ga\turn_based_rpg_ga\randomai.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HandMadeAI.cpp
+  GeneticAlgorithm.cpp
+c:\users\alexd\onedrive\documents\artifical intelligence\turn_based_rpg_ga\turn_based_rpg_ga\geneticalgorithm.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alexd\onedrive\documents\artifical intelligence\turn_based_rpg_ga\turn_based_rpg_ga\geneticalgorithm.cpp(111): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Turn_Based_RPG_GA.vcxproj -> C:\Users\alexd\OneDrive\Documents\Artifical Intelligence\Turn_Based_RPG_GA\Debug\Turn_Based_RPG_GA.exe
+  Turn_Based_RPG_GA.vcxproj -> C:\Users\alexd\OneDrive\Documents\Artifical Intelligence\Turn_Based_RPG_GA\Debug\Turn_Based_RPG_GA.pdb (Partial PDB)

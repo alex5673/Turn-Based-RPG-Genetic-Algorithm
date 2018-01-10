@@ -1,0 +1,1 @@
+RandomAI average number of turns to reduce player's HP to 0 over 100 iterations = 11
